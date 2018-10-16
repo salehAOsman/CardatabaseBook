@@ -29,7 +29,8 @@ public class CardatabaseApplication {
 	public static void main(String[] args) {
 		System.out.println("Besm Ellah");
 		SpringApplication.run(CardatabaseApplication.class, args);
-		logger.info("HELLO SALEH SPRING BOOT");
+		
+		logger.info("HELLO SALEH SPRING BOOT we commited to GitHub");
 	}
 
 	// we add info_ to database by method here
